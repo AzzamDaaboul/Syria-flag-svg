@@ -3,6 +3,9 @@ This is the Syrian Revolution flag in SVG code format.
 
 You may use the code to promote our people's message of freedom and justice. The Syrians deserve to get their sacrifices respected.
 
+![](./Syria-flag-svg/sy.svg)
+
+
 <svg xmlns="http://www.w3.org/2000/svg" id="flag-icon-css-sy" viewBox="0 0 640 480">
   <rect width="640" height="160" y="160" fill="#fff" fill-rule="evenodd" rx="0" ry="0"/>
   <rect width="640" height="160" y="320" fill-rule="evenodd" rx="0" ry="0"/>
